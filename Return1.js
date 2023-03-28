@@ -1,9 +1,5 @@
 const readline =require('readline - sync');
 
-
-
-
-
 //1 
 function nameSwapper(){
     let first = readline.question( "First Name: ");
